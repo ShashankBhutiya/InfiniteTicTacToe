@@ -13,11 +13,9 @@ Key Features
 Future Enhancements
     Implementing an AI opponent.
     Adding more visual effects and animations.
-  
-  Optimizing the code for better performance.
+    Optimizing the code for better performance.
 
 
 
 Contributions
-
-  Contributions are welcome! You can fork this repository and submit a pull request for any improvements or bug fixes.
+    Contributions are welcome! You can fork this repository and submit a pull request for any improvements or bug fixes.
